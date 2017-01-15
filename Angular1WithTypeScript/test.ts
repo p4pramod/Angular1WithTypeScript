@@ -1,4 +1,5 @@
-﻿
+﻿/// <reference path="scripts/typings/ng-dialog/ng-dialog.d.ts" />
+
 
 module TestAngularModule {
     "use strict";
@@ -14,9 +15,9 @@ module TestAngularModule {
 
         private _httpService: ng.IHttpService;
 
-        private _ngDialog: any;
+        private _ngDialog: angular.dialog.IDialogService ;
 
-        constructor($http: ng.IHttpService, ngDialog:any ) {
+        constructor($http: ng.IHttpService, ngDialog: angular.dialog.IDialogService ) {
             this._httpService = $http;
             this._ngDialog = ngDialog;
         }

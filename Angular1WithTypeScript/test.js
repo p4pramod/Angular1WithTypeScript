@@ -1,3 +1,4 @@
+/// <reference path="scripts/typings/ng-dialog/ng-dialog.d.ts" />
 var TestAngularModule;
 (function (TestAngularModule) {
     "use strict";
@@ -27,3 +28,4 @@ var TestAngularModule;
     }());
     TestAngularModule.Test = Test;
 })(TestAngularModule || (TestAngularModule = {}));
+//# sourceMappingURL=test.js.map

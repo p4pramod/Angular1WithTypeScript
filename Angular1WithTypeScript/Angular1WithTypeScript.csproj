@@ -115,6 +115,7 @@
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-scenario.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
+    <TypeScriptCompile Include="Scripts\typings\ng-dialog\ng-dialog.d.ts" />
     <TypeScriptCompile Include="test.ts" />
   </ItemGroup>
   <ItemGroup>

@@ -9,3 +9,4 @@ var TestAngularModule;
     }());
     TestAngularModule.MyDialog = MyDialog;
 })(TestAngularModule || (TestAngularModule = {}));
+//# sourceMappingURL=dialog.js.map
