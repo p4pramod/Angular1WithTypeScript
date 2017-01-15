@@ -27,4 +27,3 @@ var TestAngularModule;
     }());
     TestAngularModule.Test = Test;
 })(TestAngularModule || (TestAngularModule = {}));
-//# sourceMappingURL=test.js.map

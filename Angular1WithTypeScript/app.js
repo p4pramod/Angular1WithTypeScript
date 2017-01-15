@@ -4,4 +4,3 @@ var TestAngularModule;
     "use strict";
     angular.module("app", ["ngDialog"]).controller("ctrl", TestAngularModule.Test).controller("TestMyDialog", TestAngularModule.MyDialog);
 })(TestAngularModule || (TestAngularModule = {}));
-//# sourceMappingURL=app.js.map
