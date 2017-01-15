@@ -9,6 +9,7 @@
     <link href="css/ngDialog-theme-plain.css" rel="stylesheet" />
     <script src="Scripts/angular.js"></script>
     <script src="Scripts/angular-route.js"></script>
+    <script src="firstDIrective.js"></script>
     <script src="dialog.js"></script>
     <script src="test.js"></script>
     <script src="app.js"></script>
@@ -17,9 +18,11 @@
 <body ng-controller="ctrl as c">
     {{c.firstName}}
     <input type="button" value="click" ng-click="c.setFirsNake()" />
+    <div ng-enter></div>
 </body>
 </html>
 <script type="text/ng-template" id="firstDialogId" ng-controller="TestMyDialog as d">
     <h1>This is test.{{d.firstName}}</h1>
     <input ng-model="d.firstName" />
+   
 </script>
