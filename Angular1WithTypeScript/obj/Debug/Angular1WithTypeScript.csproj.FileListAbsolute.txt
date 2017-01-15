@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\obj\Debug\Angular1WithTypeScript.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\bin\Angular1WithTypeScript.dll.config
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\bin\Angular1WithTypeScript.dll
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\bin\Angular1WithTypeScript.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\obj\Debug\Angular1WithTypeScript.dll
+C:\Users\User\documents\visual studio 2015\Projects\Angular1WithTypeScript\Angular1WithTypeScript\obj\Debug\Angular1WithTypeScript.pdb

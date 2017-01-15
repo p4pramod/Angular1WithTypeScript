@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="Scripts/require.js"></script>
+    <script>
+        require.config({
+            baseUrl: "scripts/",
+            paths: {
+                "some": "some/v1"
+            }
+        });
+        requirejs(["some"], function (some) {
+           // alert(i.name);
+            //This function is called when scripts/helper/util.js is loaded.
+            //If util.js calls define(), then this function is not fired until
+            //util's dependencies have loaded, and the util argument will hold
+            //the module value for "helper/util".
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
